@@ -1,0 +1,14 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "degree_hours": 7.5,
+    "intervals": [
+      0.5,
+      6,
+      1
+    ]
+  }
+}
